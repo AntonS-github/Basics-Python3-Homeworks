@@ -36,3 +36,5 @@ result_dict = {'0': count_0,
                 '1000': count_1000,
                 '10000': count_10000}
 print(result_dict)
+
+

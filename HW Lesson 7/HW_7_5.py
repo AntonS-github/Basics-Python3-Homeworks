@@ -12,6 +12,7 @@
 скрипт.
 '''
 
+
 import os
 import stat
 result_dict = {}

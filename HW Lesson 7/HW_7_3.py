@@ -34,5 +34,6 @@ for root, dirs, files in os.walk('my_project'):
 			#print(os.path.join(new_path, dir, file))
 			shutil.copytree(root, os.path.join(new_path, dir), dirs_exist_ok=True)
 
+
     
 
